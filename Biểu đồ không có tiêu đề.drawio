@@ -1,9 +1,156 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T18:43:50.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="eC9Z6S_B81kB07GxhKx7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T19:22:08.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="phTlHRHtMkWCjfAxK2Et" version="22.1.21" type="github">
   <diagram name="Trang-1" id="he1zsFF0Aq8e7CExfSfz">
-    <mxGraphModel>
+    <mxGraphModel dx="1793" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mp6Skm_bUAuylyRDibHt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="1480" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#deebf7;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="134" width="330" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-3" value="&lt;b&gt;Người dùng&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="145" y="100" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-4" target="mp6Skm_bUAuylyRDibHt-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Yêu cầu ký&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="mp6Skm_bUAuylyRDibHt-9">
+          <mxGeometry x="0.0027" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-4" target="mp6Skm_bUAuylyRDibHt-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-4" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#00b0f0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-8" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Trình duyệt&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-11" value="&lt;b&gt;Phần mềm văn bản&lt;br&gt;(VD: Word, Excel, Foxir Reader...)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="210" y="330" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#deebf7;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="210" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-14" value="&lt;b&gt;Ứng dụng SigningHub&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-15" value="&lt;b&gt;Ứng dụng của doanh nghiệp&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-16" value="&lt;b&gt;Signing Extension&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="460" y="330" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-8" target="mp6Skm_bUAuylyRDibHt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-11" target="mp6Skm_bUAuylyRDibHt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#deebf7;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="750" y="140" width="320" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-20" value="&lt;b&gt;Dịch vụ ký số từ xa&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="785" y="90" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#deebf7;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="150" width="320" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-22" value="&lt;b&gt;Hệ thống hạ tầng khóa công khai (PKI)&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="90" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-23" target="mp6Skm_bUAuylyRDibHt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-23" target="mp6Skm_bUAuylyRDibHt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-23" target="mp6Skm_bUAuylyRDibHt-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="209.5" width="290" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-24" value="&lt;b&gt;CA Server&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="170" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-25" value="&lt;b&gt;OSCP/CRL Server&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="292" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-26" value="&lt;b&gt;TSA Server&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="420" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-27" value="ADSS Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="855" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-28" value="&lt;b&gt;ADSS RA&lt;br&gt;Service&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="785" y="236" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-29" value="&lt;b&gt;ADSS Certification&lt;br&gt;Service&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="925" y="236" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-30" value="&lt;b&gt;ADSS Signing Service&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="815" y="316" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-31" target="mp6Skm_bUAuylyRDibHt-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-31" value="&lt;b&gt;ADSS RAS Service&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="815" y="386" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-39" target="mp6Skm_bUAuylyRDibHt-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-39" value="&lt;b&gt;ADSS SAM Service&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FFFFFF;fillColor=#00B0F0;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="815" y="495" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-41" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Database for &lt;br&gt;Keys&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="800" y="585" width="59" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;HSM&lt;/b&gt;&lt;/font&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#8C8C8C;shape=mxgraph.azure.server" vertex="1" parent="1">
+          <mxGeometry x="916" y="592" width="114" height="34.2" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-39" target="mp6Skm_bUAuylyRDibHt-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-47" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="481.6" width="290" height="218.4" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-48" value="ADSS SAM Appliance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="825" y="710" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-49" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Ứng dụng ký số &lt;br&gt;trên điện thoại&lt;br&gt;(MySign)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
+          <mxGeometry x="267" y="526.2" width="56" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.992;entryY=0.53;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-23" target="mp6Skm_bUAuylyRDibHt-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="401" />
+              <mxPoint x="700" y="579" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-14" target="mp6Skm_bUAuylyRDibHt-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-16" target="mp6Skm_bUAuylyRDibHt-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-53" value="" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#00b0f0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="546" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;labelBackgroundColor=default;fontColor=none;noLabel=1;" edge="1" parent="1" source="mp6Skm_bUAuylyRDibHt-49" target="mp6Skm_bUAuylyRDibHt-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mp6Skm_bUAuylyRDibHt-57" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Xác thực &lt;br&gt;danh tính&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="mp6Skm_bUAuylyRDibHt-54">
+          <mxGeometry x="-0.1452" y="4" relative="1" as="geometry">
+            <mxPoint x="-3" y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
