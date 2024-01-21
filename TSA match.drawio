@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T19:00:09.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZcQX0E0c8NfETu3theQ9" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-21T19:01:23.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hRfbzqYAgpclkZBnJvEc" version="22.1.21" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1247" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Quy trình đấu nối TSA" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="1840" height="570" as="geometry" />
+          <mxGeometry x="120" y="120" width="1770" height="570" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Doanh nghiệp" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="1820" height="245" as="geometry" />
+          <mxGeometry x="20" width="1750" height="245" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-23" target="dNxyNK7c78bLwvsdeMH5-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Nhân viên bán hàng" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="245" width="1820" height="190" as="geometry" />
+          <mxGeometry x="20" y="245" width="1750" height="190" as="geometry" />
         </mxCell>
         <mxCell id="6jg0AIKtms3DlK0bJASd-4" value="Tiếp nhận yêu cầu và hướng dẫn khách hàng" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="260" y="65" width="175" height="60" as="geometry" />
@@ -62,17 +62,19 @@
         <mxCell id="6jg0AIKtms3DlK0bJASd-12" value="Tạo license test API và yêu cầu khách hàng bổ sung thông tin hoàn thiện license" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="981" y="65" width="179" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6jg0AIKtms3DlK0bJASd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="6jg0AIKtms3DlK0bJASd-23" target="6jg0AIKtms3DlK0bJASd-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6jg0AIKtms3DlK0bJASd-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="6jg0AIKtms3DlK0bJASd-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="95" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6jg0AIKtms3DlK0bJASd-23" value="Lập và thực hiện ký hợp đồng với khách hàng" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="1520" y="65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6jg0AIKtms3DlK0bJASd-25" value="" style="ellipse;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="1740" y="55" width="80" height="80" as="geometry" />
+        <mxCell id="6jg0AIKtms3DlK0bJASd-27" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="1690" y="80" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Hệ thống Viettel-CA" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="435" width="1820" height="135" as="geometry" />
+          <mxGeometry x="20" y="435" width="1750" height="135" as="geometry" />
         </mxCell>
         <mxCell id="6jg0AIKtms3DlK0bJASd-20" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=eventNonint;symbol=message;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="1400" y="42.5" width="50" height="50" as="geometry" />
